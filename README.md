@@ -1,6 +1,37 @@
-# JNSQ_ParallaxScatters
-Adds parallax scatter support to KSP's JNSQ planet mod
-![Aden-Scatters](https://user-images.githubusercontent.com/31460040/192159864-cf559cb4-39d3-4f61-98d4-985262cf25e7.jpg)
-![Eve-Scatters](https://user-images.githubusercontent.com/31460040/192159874-04f92512-1355-4cd7-b585-a0e206377829.jpg)
-![Kerbin-Scatters-1](https://user-images.githubusercontent.com/31460040/192159878-1da7d202-b78a-426f-8360-9836c76760a0.jpg)
-![Kerbin-Scatters-2](https://user-images.githubusercontent.com/31460040/192159880-6396e474-6fe9-45d1-9303-cd5c256487a3.jpg)
+# JNSQ Parallax Continued
+
+## Overview
+
+This project is a updated version of [coldrifting](https://github.com/coldrifting/JNSQ_ParallaxScatters). It uses it's custom textures.
+
+## Installation Instructions
+
+To install this, please follow these steps:
+
+1. **Download the original configs**
+
+   First, you need to download the original configs from the following link:
+
+   [Download old configs](https://github.com/coldrifting/JNSQ_ParallaxScatters/releases/download/v0.9.0/JNSQ_ParallaxScatters-v0.9.0.zip)
+
+2. **Download the new configs**
+
+   Next, download the new version from this repository:
+
+   [Parallax Continued configs](https://github.com/yukkine0704/JNSQ_ParallaxScattersContinued)
+
+3. **Copy and replace**
+
+   After downloading follow this steps:
+
+   - Navigate to your Gamedata folder.
+   - Copy the files from the old configs into your Gamedata folder.
+   - Now copy the new configs, replacing the existing files if asked.
+
+## Contributing
+
+If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+## Support
+
+For any questions or issues, please open an issue in the GitHub repository.
