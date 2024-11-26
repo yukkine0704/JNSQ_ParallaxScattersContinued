@@ -3,6 +3,12 @@
 ## Overview
 
 This project is a updated version of [coldrifting](https://github.com/coldrifting/JNSQ_ParallaxScatters). It uses it's custom textures.
+**Aden scatters:**
+![screenshot215](https://github.com/user-attachments/assets/1a6171d2-5fcb-4221-b544-02ef5aac57f3)
+
+**Enon terrain:**
+![screenshot216](https://github.com/user-attachments/assets/49724515-dc15-4356-91db-b88121ad389e)
+
 
 ## Installation Instructions
 
