@@ -18,7 +18,7 @@ To install this, please follow these steps:
 
    Next, download the new version from this repository:
 
-   [Parallax Continued configs](https://github.com/yukkine0704/JNSQ_ParallaxScattersContinued)
+   [Parallax Continued configs](https://github.com/yukkine0704/JNSQ_ParallaxScattersContinued/releases)
 
 3. **Copy and replace**
 
