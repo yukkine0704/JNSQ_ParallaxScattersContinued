@@ -23,7 +23,7 @@ To install this, please follow these steps:
 
 2. **Download the new configs**
 
-   Next, download the new version from this repository:
+   Next, download the new version from releases:
 
    [Parallax Continued configs](https://github.com/yukkine0704/JNSQ_ParallaxScattersContinued/releases)
 
