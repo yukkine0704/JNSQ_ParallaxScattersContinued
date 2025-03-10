@@ -15,13 +15,8 @@ This project is a updated version of [coldrifting](https://github.com/coldriftin
 
 To install this, please follow these steps:
 
-1. **Download the original configs**
 
-   First, you need to download the original configs from the following link:
-
-   [Download old configs](https://github.com/coldrifting/JNSQ_ParallaxScatters/releases/download/v0.9.0/JNSQ_ParallaxScatters-v0.9.0.zip)
-
-2. **Download the new configs**
+1. **Download the new configs**
 
    Next, download the new version from releases:
 
@@ -32,7 +27,6 @@ To install this, please follow these steps:
    After downloading follow this steps:
 
    - Navigate to your Gamedata folder.
-   - Copy the files from the old configs into your Gamedata folder.
    - Now copy the new configs, replacing the existing files if asked.
 
 ## Contributing
